@@ -190,4 +190,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
-{"id":366538,"author":{"login":"MrRio","id":47539,"node_id":"MDQ6VXNlcjQ3NTM5","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTM2NjUzOA==","tag_name":"0.1.8","target_commitish":"master","name":"Bug fix update","draft":false,"immutable":false,"prerelease":false,"created_at":"2014-06-10T15:15:42Z","updated_at":"2014-06-10T15:58:55Z","published_at":"2014-06-10T15:58:55Z","assets":[],"body":"This version fixes:\n- Truncation of process name and 'NaN' showing for some users - #7 #6 #5\n- Fix for systems that return commas instead of dots\n","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
