@@ -7,7 +7,7 @@ about:
   latestVersion: "0.1.8"
   latestRelease: "0.1.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:01:46Z
+  collectedAt: 2026-09-09T18:34:18Z
 timeline:
   created: 2014-05-29
   lastCommit: 2018-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2014-06-10
   lastPrerelease: 
 popularity:
-  star: 4172
+  star: 4171
   watcher: 52
   fork: 152
   release: 1
@@ -85,7 +85,7 @@ total:
   commit: 277
 ---
 path: /home/runner/.x-repo/github.com/MrRio/vtop
-collectedAt: 2026-09-09T04:01:49Z
+collectedAt: 2026-09-09T18:34:20Z
 loc:
   JavaScript:
     code: 698
