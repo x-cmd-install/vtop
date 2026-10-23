@@ -1,0 +1,10 @@
+- repo: aur
+  srcname: vtop
+  binname: vtop
+  visiblename: vtop
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: unique
+  summary: Wow such top. So stats
+  maintainers:
+    - jasongodev@aur
